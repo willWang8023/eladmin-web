@@ -10,7 +10,10 @@ ELADMIN 前端源码
 |  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-web   |
 
 #### 开发文档
-[https://el-admin.vip](https://el-admin.vip)
+[https://eladmin.vip](https://eladmin.vip)
+
+#### 体验地址
+[https://eladmin.vip/demo](https://eladmin.vip/demo)
 
 #### 前端模板
 
@@ -18,7 +21,15 @@ ELADMIN 前端源码
 
 模板文档： [https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
 
+#### VPS推荐
+<a href="https://bwh81.net/aff.php?aff=70876" target="_blank">
+<img src="https://eladmin.vip/images/banner/side.jpeg" style="width: 435px;border-radius: 2px;">
+</a>
+
+使用优惠码: `BWHNCXNVXV`，可获得 6.81% 的折扣， [查看介绍](https://eladmin.vip/pages/040101/)
+
 #### Build Setup
+**推荐 node 版本：12-16**
 ``` bash
 # 配置镜像加速
 https://www.ydyno.com/archives/1219.html
@@ -53,7 +64,7 @@ https://www.ydyno.com/archives/1219.html
 
 - 感谢 [PanJiaChen](https://github.com/PanJiaChen/vue-element-admin) 大佬提供的前端模板
 
-- 感谢 [Moxun](https://github.com/moxun1639) 大佬提供的前端 Curd 通用组件
+- 感谢 [Moxun](https://github.com/moxun1639) 大佬提供的前端 Crud 通用组件
 
 - 感谢 [zhy6599](https://gitee.com/zhy6599) 大佬提供的后端运维管理相关功能
 
@@ -63,4 +74,4 @@ https://www.ydyno.com/archives/1219.html
 
 #### 反馈交流
 
-- QQ交流群：一群：891137268、二群：947578238、三群：659622532
+- QQ交流群：891137268 、947578238、659622532
